@@ -1,8 +1,11 @@
 {
-  "name": "angular-io-example",
+  "name": "cwiki-us-angular-tour-of-heroes-list",
   "version": "1.0.0",
   "private": true,
-  "description": "Example project from an angular.io guide.",
+  "description": "Example project from an angular.io guide about cwiki-us-angular-tour-of-heroes-list",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
   "scripts": {
     "lint": "tslint ./src/**/*.ts -t verbose",
     "start": "ng serve",
@@ -11,9 +14,6 @@
     "e2e": "ng e2e",
     "ng": "ng"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "@angular/animations": "^7.1.0",
     "@angular/common": "^7.1.0",
