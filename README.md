@@ -1,4 +1,4 @@
-# CwikiUsAngularTourOfHeroEditor
+# Cwiki-Us-Angular-Tour-Of-Heroes-List
 
 ## Development server
 
