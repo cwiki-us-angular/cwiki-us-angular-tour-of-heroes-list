@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "description": "Example project from an angular.io guide about cwiki-us-angular-tour-of-heroes-list",
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "scripts": {
-    "lint": "tslint ./src/**/*.ts -t verbose",
+    "ng": "ng",
     "start": "ng serve",
+    "build": "ng build",
     "test": "ng test",
-    "build": "ng build --prod",
-    "e2e": "ng e2e",
-    "ng": "ng"
+    "lint": "ng lint",
+    "e2e": "ng e2e"
   },
   "dependencies": {
     "@angular/animations": "^7.1.0",
